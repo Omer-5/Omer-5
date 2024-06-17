@@ -1,4 +1,11 @@
 ## Hi there 👋
+Nice to me you!
+
+My name is Omer, I am a 3rd year computer science stundet, I currently working as an intern in ServiceNow, as well as a freelancer
+
+I love coding and challenging myself, currently taking a class about Microservices that I enjoy
+
+I am intereted in devolping my technical skill and improve in order to write a better code
 
 <!--
 **Omer-5/Omer-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
